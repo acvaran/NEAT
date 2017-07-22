@@ -1,5 +1,5 @@
 package com.neat.population;
 
-public class Population {
+public interface Population {
 
 }
