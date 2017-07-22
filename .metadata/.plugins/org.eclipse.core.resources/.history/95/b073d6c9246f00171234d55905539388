@@ -2,11 +2,6 @@ package com.neat.equations;
 
 public class Equations {
 
-	/*
-	 * This class holds the mathematical equations that might come in handy in
-	 * the neural network calculations.
-	 */
-
 	// Returns a random double number between -1 and 1
 	// This method will be used to create random weights.
 	public static double randomWeight() {
