@@ -3,7 +3,9 @@ package com.neat.gene;
 import com.sun.tools.javac.util.Pair;
 
 public interface Gene {
-    public Pair<Integer,Integer> getNodes();
+    public int getNodeI();
+
+    public int getNodeO();
 
     public boolean equals(Gene gene);
 
