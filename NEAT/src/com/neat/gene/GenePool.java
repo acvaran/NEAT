@@ -1,5 +1,5 @@
 package com.neat.gene;
 
-public class GenePool {
+public interface GenePool {
 
 }

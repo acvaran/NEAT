@@ -1,0 +1,8 @@
+package com.neat.equations;
+
+public class Equations {
+
+	public static double randomWeight(){
+		
+	}
+}
